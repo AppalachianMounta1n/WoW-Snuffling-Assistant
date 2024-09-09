@@ -1,0 +1,7 @@
+## Interface: 110002
+## Version: 0.0.1
+## Title: Snuffling Assistant
+## Notes: The first addon I've developed, meant to make snuffling slightly easier
+## Author: Appalachian
+
+SnufflingAssistant.lua
